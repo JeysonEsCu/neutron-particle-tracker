@@ -1,4 +1,4 @@
-# 3D Modular Nuclear Reactor Simulator
+# Neutron Particle Tracker
 
 It includes adjustable control rods, randomly moving particles, and a modular design
 based on classes to keep the code clean.
